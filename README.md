@@ -18,7 +18,7 @@ Tenho experiência com várias tecnologias, incluindo:
 - Linguagens de Programação:
   - JavaScript 🤖
   - PHP 📝
-  - 
+    
 ## 📫 Contato
 
 Se quiser entrar em contato comigo ou colaborar em algum projeto, fique à vontade para me enviar uma mensagem:
@@ -32,5 +32,6 @@ Se quiser entrar em contato comigo ou colaborar em algum projeto, fique à vonta
 Obrigado por visitar meu perfil! Estou ansioso para colaborar em projetos incríveis e aprender com outros desenvolvedores talentosos. 😊
 
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=thiagovarallo&theme={dark})
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagovarallo&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagovarallo&layout=compact&theme=dark)
 
