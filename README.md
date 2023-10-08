@@ -33,4 +33,5 @@ Obrigado por visitar meu perfil! Estou ansioso para colaborar em projetos incrí
 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=thiagovarallo)
+https://github-readme-stats.vercel.app/api/top-langs/?username={thiagovarallo}&theme={radical}
 
