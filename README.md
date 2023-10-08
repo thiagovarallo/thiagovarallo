@@ -9,15 +9,23 @@ Tenho experiência com várias tecnologias, incluindo:
 - Front-end: 
   - React.js 🌟
   - Vue.js ✨
+  - TypeScript 📝
 
 - Back-end:
   - Node.js 🚀
   - PHP 🐘
   - Laravel 🌐
+  - TypeScript 📝
 
-- Linguagens de Programação:
-  - JavaScript 🤖
-  - PHP 📝
+- Banco de Dados:
+  - MySQL 🧬
+  - PostgreSQL 🐘
+  - MongoDB 🍃
+
+- Ferramentas:
+  - Docker 🐳
+  - Git 📦
+  - Postman 📬
     
 ## 📫 Contato
 
