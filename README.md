@@ -32,6 +32,5 @@ Se quiser entrar em contato comigo ou colaborar em algum projeto, fique à vonta
 Obrigado por visitar meu perfil! Estou ansioso para colaborar em projetos incríveis e aprender com outros desenvolvedores talentosos. 😊
 
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=thiagovarallo)
-https://github-readme-stats.vercel.app/api/top-langs/?username={thiagovarallo}&theme={radical}
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=thiagovarallo&theme={dark})
 
