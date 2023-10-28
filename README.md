@@ -16,11 +16,13 @@ Tenho experiência com várias tecnologias, incluindo:
   - PHP 🐘
   - Laravel 🌐
   - TypeScript 📝
+  - C# .NET 🔵
 
 - Banco de Dados:
   - MySQL 🧬
   - PostgreSQL 🐘
   - MongoDB 🍃
+  - SQL Server 🦈
 
 - Ferramentas:
   - Docker 🐳
