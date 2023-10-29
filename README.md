@@ -9,6 +9,7 @@ Tenho experiência com várias tecnologias, incluindo:
 - Front-end: 
   - React.js 🌟
   - Vue.js ✨
+  - Angular 🅰️
   - TypeScript 📝
 
 - Back-end:
