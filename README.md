@@ -1,4 +1,7 @@
-# 👋 Olá, sou Thiago, tenho 18 anos!
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=ThiagoVarallo%20&fontAlignY=40&color=gradient)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Thiago+Varallo;Tenho+18+anos;Desenvolvedor+Full-stack;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
+
 
 Sou um desenvolvedor Full Stack apaixonado por criar aplicações web incríveis que combinam estilo e funcionalidade.
 
@@ -37,10 +40,6 @@ Se quiser entrar em contato comigo ou colaborar em algum projeto, fique à vonta
 - Email: thiagovaralllo@gmail.com 📧
 - LinkedIn: [Perfil no LinkedIn](https://www.linkedin.com/in/thiago-varallo) 👔
 - GitHub: [Meu perfil no GitHub](https://github.com/thiagovarallo) 🐙
-
-## 🙏 Agradecimentos
-
-Obrigado por visitar meu perfil! Estou ansioso para colaborar em projetos incríveis e aprender com outros desenvolvedores talentosos. 😊
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagovarallo&show_icons=true&theme=dark)
