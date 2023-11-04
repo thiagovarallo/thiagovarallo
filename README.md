@@ -2,9 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Thiago+Varallo;Tenho+18+anos;Desenvolvedor+Full-stack;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
-
-Sou um desenvolvedor Full Stack apaixonado por criar aplicações web incríveis que combinam estilo e funcionalidade.
-
 ## 💻 Habilidades
 
 Tenho experiência com várias tecnologias, incluindo:
