@@ -13,7 +13,6 @@ Tenho experiência com várias tecnologias, incluindo:
   - TypeScript 📝
 
 - Back-end:
-  - Node.js 🚀
   - PHP 🐘
   - Laravel 🌐
   - TypeScript 📝
