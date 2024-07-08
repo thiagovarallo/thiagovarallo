@@ -34,7 +34,6 @@ Tenho experiência com várias tecnologias, incluindo:
 Se quiser entrar em contato comigo ou colaborar em algum projeto, fique à vontade para me enviar uma mensagem:
 
 - Email: thiagovaralllo@gmail.com 📧
-- LinkedIn: [Perfil no LinkedIn](https://www.linkedin.com/in/thiago-varallo) 👔
 - GitHub: [Meu perfil no GitHub](https://github.com/thiagovarallo) 🐙
 
 
