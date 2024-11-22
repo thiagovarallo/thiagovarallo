@@ -8,7 +8,7 @@ Tenho experiência com várias tecnologias, incluindo:
 
 - Front-end: 
   - React.js 🌟
-  - Vue.js ✨
+  - Blazor ✨
   - Angular 🅰️
   - TypeScript 📝
 
